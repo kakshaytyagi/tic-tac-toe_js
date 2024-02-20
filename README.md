@@ -10,7 +10,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 
 
 ## Demo
-You can play the game live [here](#) (Add a link to the live demo if available).
+You can play the game live [[here](#)](https://tictac-toe-jsgame.netlify.app/) (Add a link to the live demo if available).
 
 ## Features
 - Classic Tic Tac Toe gameplay.
